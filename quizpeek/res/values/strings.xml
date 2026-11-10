@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizPeek</string>
+    <string name="peek_desc">QuizPeek 用这个服务截取当前屏幕，交给 DSH 识别题目。不做别的事。</string>
+</resources>
